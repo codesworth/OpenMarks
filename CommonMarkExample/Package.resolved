@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Ccmark",
+        "repositoryURL": "/Users/redhand/Development/Projects/Frameworks/Ccmark",
+        "state": {
+          "branch": "master",
+          "revision": "50ed2018bae5a8a5b13f55b5291ea19424ed7d0a",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
